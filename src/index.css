@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-[#0E0F17] text-white transition-colors duration-300;
+}
